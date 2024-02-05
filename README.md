@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @djwood0429
-- 👀 I’m interested in Front-End Development, HTML, CSS, PHP, Laravel, Javascript, and Cybersecurity.
-- 🌱 I’m currently learning and refining my skills in HTML, CSS, PHP, Laravel, Javascript, and Cybersecurity.
+- 👀 I’m interested in HTML, CSS, Python, JavaScript, React.
 - 📫 How to reach me: djwood0429@email.campbell.edu LinkedIn: https://www.linkedin.com/in/daniel-j-wood-nc/
 
 <!---
